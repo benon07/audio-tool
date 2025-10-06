@@ -1,0 +1,28 @@
+{
+  "marks": [
+    {
+      "time": 0,
+      "name": "A"
+    },
+    {
+      "time": 21,
+      "name": "B"
+    },
+    {
+      "time": 60,
+      "name": "C"
+    },
+    {
+      "time": 83,
+      "name": "D"
+    },
+    {
+      "time": 110,
+      "name": "E"
+    },
+    {
+      "time": 137,
+      "name": "F"
+    }
+  ]
+}
